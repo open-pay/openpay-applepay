@@ -1,0 +1,14 @@
+{
+  "name": "openpay-applepay",
+  "version": "1.0.0",
+  "description": "Libreria OPENPAY para realizar pago con Apple Pay",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "OPENPAY",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
